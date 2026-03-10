@@ -65,3 +65,10 @@ The results from our custom implementation closely match the values produced by 
 ## Author
 
 Emiliyan
+
+## Sources
+1. Page, L., Brin, S. (1998). The PageRank Citation Ranking: Bringing Order to the Web.
+2. NetworkX Documentation – PageRank Algorithm.
+3. Introduction to Algorithms – Cormen, Leiserson, Rivest, Stein.
+4. Wikipedia – PageRank Algorithm.
+5. Chat GPT
