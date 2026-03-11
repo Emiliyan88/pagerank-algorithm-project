@@ -71,4 +71,3 @@ Emiliyan
 2. NetworkX Documentation – PageRank Algorithm.
 3. Introduction to Algorithms – Cormen, Leiserson, Rivest, Stein.
 4. Wikipedia – PageRank Algorithm.
-5. Chat GPT
